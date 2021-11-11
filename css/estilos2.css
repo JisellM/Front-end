@@ -4,7 +4,7 @@ html{
 
   margin: 0;
   background: url(https://static.vecteezy.com/system/resources/previews/002/116/398/non_2x/modern-night-city-skyline-landscape-background-vector.jpg) no-repeat center center;
-  background-size: 200% 700%;
+  background-size: cover;
   
   
   min-height: 100%;
